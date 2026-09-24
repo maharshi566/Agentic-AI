@@ -1,0 +1,7 @@
+langgraph~=1.2
+langchain-core~=1.6
+langchain-openai~=1.6
+openai~=3.19
+pydantic~=2.13
+pydantic-settings~=2.15
+numpy~=2.5
